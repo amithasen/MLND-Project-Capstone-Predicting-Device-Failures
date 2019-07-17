@@ -14,7 +14,6 @@ Software Requirements
 * `conda install -c conda-forge lightgbm -y`
 
 Files
-* README.md
 * proposal.pdf
 * report.pdf
-* 20190717_Udacity_Capstone.ipynb
+* Udacity_ML_Capstone_Analysis.ipynb
