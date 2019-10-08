@@ -14,4 +14,4 @@ Software Requirements
 Files
 * `proposal.pdf`: intial workplan
 * `report.pdf`: final report
-* `Udacity_ML_Capstone_Analysis.ipynb`: details steps of analysis captured in jupyter notebook 
+* `Udacity_ML_Capstone_Analysis.ipynb`: detail steps of the analysis captured in jupyter notebook 
