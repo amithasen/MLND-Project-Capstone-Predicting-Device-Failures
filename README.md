@@ -1,7 +1,7 @@
 ## Predicting Device Failures with Ensemble Models
 
 Background
-* This is the capstone project for Udacity Machine Learning Engineer Nanodegree.
+* This is the capstone project for Udacity Machine Learning Engineer Nanodegree. Series of ensemble models are fitted to evaluate probabilities of device failures for purpose of predictive maintenance. Resampling technique is also used to mitigate imbalanced nature of the dataset. Model performnace is continuously calibrated with help of confusion matrix. In the final analysis, the best performing model is able to score 100% accuracy, and .
 
 
 Dataset
@@ -12,6 +12,6 @@ Software Requirements
 * `conda install -c conda-forge imbalanced-learn xgboost lightgbm -y`
 
 Files
-* proposal.pdf
-* report.pdf
-* Udacity_ML_Capstone_Analysis.ipynb
+* `proposal.pdf`: intial workplan
+* `report.pdf`: final report
+* `Udacity_ML_Capstone_Analysis.ipynb`: details steps of analysis captured in jupyter notebook 
