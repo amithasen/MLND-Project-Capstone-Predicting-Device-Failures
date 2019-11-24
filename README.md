@@ -12,6 +12,6 @@ Software Requirements
 * `conda install -c conda-forge imbalanced-learn xgboost lightgbm -y`
 
 Files
-* `proposal.pdf`: intial workplan
+* `proposal.pdf`: initial workplan
 * `report.pdf`: final report
 * `Udacity_ML_Capstone_Analysis.ipynb`: detail steps of the analysis captured in jupyter notebook 
